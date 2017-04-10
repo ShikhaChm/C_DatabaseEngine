@@ -1,0 +1,3 @@
+This is an implementation of a small database-like system from scratch. While working on this project I explored how to implement the concepts and data structures discussed in the lectures and readings of course CS-525 IIT Chicago. This project has been implemented using C, UNIX. Valgrind was used to debug memory errors. 
+It consists of Storage manager, Buffer manager, Record manager and B+-Tree index and multiple test cases. To check the documentation please go through the report folder.
+http://cs.iit.edu/~cs525/assignments.html
